@@ -1,1 +1,1 @@
-Toyyiban - A Decentralized Muslim Community.
+# Toyyiban Protocol Reference Implementation
